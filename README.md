@@ -1,4 +1,4 @@
-# edtech
+# Ednotes
 
 A new Flutter project.
 
